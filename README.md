@@ -22,7 +22,7 @@
 **Programming:**  
 HTML | CSS | Python | MySQL | Javascript | Java
 
-**Cyber Security**
+**Cyber Security:**
 Vulnerability Scanning | Network Security | Penetration Testing | Firewall Administration
 
 **Network & Security:**  
@@ -64,6 +64,4 @@ Vulnerability Scanning | Network Security | Penetration Testing | Firewall Admin
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryankoigi-dev&show_icons=true&theme=tokyonight" alt="ryankoigi-dev stats"/>
-</p>
+## Happy Coding!
