@@ -1,5 +1,5 @@
 # ryankoigi-dev.
-<h1 align="center">Hello Everyone, I'm Ryan Koigi</h1>
+<h1 align="center">Hi, I'm Ryan Koigi</h1>
 <h3 align="center">Software Engineer | Network Security Enthusiast</h3>
 
 <p align="center">
@@ -8,19 +8,22 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🧑‍💻 I'm a passionate Software Engineer with a love for building robust web applications and secure digital solutions.
-- 🔒 Certified in Network Security (HCIA & CCNA), blending programming with cybersecurity best practices.
-- 🌱 Lifelong learner – always exploring new technologies, frameworks, and security protocols.
-- 💡 Problem solver, collaborator, and advocate for clean, readable code.
+- I'm a passionate Software Engineer with love for designing web applications with the implementation of HTML5, CSS & Javascript
+- Certified in Network Security (HCIA & CCNA), design of a basic network set-up, in-depth understanding of the TCP/IP infrastructure & LAN/WAN configuration
+- Lifelong learner(Continuous Learning) – always exploring new technologies, frameworks, and security protocols.
+- A Critical thinker & Problem solver, a team collaborator, proactive, and advocate for clean, readable code.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Programming:**  
-HTML | CSS | Python | MySQL
+HTML | CSS | Python | MySQL | Javascript | Java
+
+**Cyber Security**
+Vulnerability Scanning | Network Security | Penetration Testing | Firewall Administration
 
 **Network & Security:**  
 - HCIA (Huawei Certified ICT Associate)  
@@ -33,20 +36,17 @@ HTML | CSS | Python | MySQL
 
 ---
 
-### 🚀 Highlight Projects
+###  Projects
 
-- **Secure Web App Starter:**  
-  A Python/Django template with built-in best security practices for rapid prototyping.
-
-- **Network Visualizer:**  
-  Visual tool for mapping and monitoring small networks, built with Python and interactive dashboards.
+- **A basic calculator program:**  
+  A simple python-based calculator application that supports basic arithmetic operations.
 
 - **Portfolio Website:**  
   [my-portfolio](https://github.com/ryankoigi-dev/my-portfolio) — Showcasing projects, skills, and growth (with downloadable [CV](https://github.com/ryankoigi-dev/my-portfolio/blob/main/RyanKoigiCV.pdf)).
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-njuguna-3b8734276)  
 - [Twitter/X](https://twitter.com/ryan-koigi)  
@@ -55,12 +55,12 @@ HTML | CSS | Python | MySQL
 
 ---
 
-### ⚡ Fun Facts
+###  Fun Facts
 
-- 🧩 I love solving puzzles—both in code and in real life.
-- 🎵 Music fuels my coding sessions.
-- 🏃‍♂️ Enjoy hiking and exploring new places offline, too!
-- 🗣️ Motto: “Build it. Secure it. Share it. Learn from it.”
+-  I love solving puzzles—both in code and in real life.I enjoy chess.
+-  Music fuels my coding sessions.
+-  Enjoy hiking, watching movies and exploring new places offline, too!
+-  Motto: “Build it. Secure it. Share it. Learn from it.”
 
 ---
 
